@@ -1,20 +1,20 @@
-# ✅ Task Manager
+#  Task Manager
 
 A simple and interactive **Task Manager application** built with React.
 
 The application allows users to **create, organize, and track tasks** while practicing React components, state management, and user interaction.
 
-## ✨ Features
+##  Features
 
-* ➕ Create tasks
-* ✏️ Edit tasks
-* 🗑️ Delete tasks
-* ✅ Mark tasks as completed
-* 📋 Organize tasks
-* 🔄 Manage task states
-* 💻 Interactive user interface
+*  Create tasks
+*  Edit tasks
+*  Delete tasks
+*  Mark tasks as completed
+*  Organize tasks
+*  Manage task states
+*  Interactive user interface
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * React
 * JavaScript
@@ -23,11 +23,11 @@ The application allows users to **create, organize, and track tasks** while prac
 * Vite
 * Git & GitHub
 
-## 🎯 Purpose
+##  Purpose
 
 This project was created to practice the fundamentals of **React development** and understand how components and state work together to create an interactive application.
 
-## 📚 What I Learned
+##  What I Learned
 
 Through this project, I practiced:
 
@@ -40,7 +40,7 @@ Through this project, I practiced:
 * JavaScript fundamentals
 * Building reusable UI components
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add local storage
 * Add task categories
@@ -50,7 +50,7 @@ Through this project, I practiced:
 * Add dark mode
 * Add user authentication
 
-## 👩‍💻 Author
+##  Author
 
 **Ailamay**
 
